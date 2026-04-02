@@ -34,7 +34,7 @@
 ### 🎓 Student Management System
 - Java-based CRUD system  
 - Features: Add, Update, Delete, View Students  
-- 📎 Add your repo link here
+- 📎 [View Project](https://github.com/deybikram1608/Student_Management_System)
 
 ---
 
