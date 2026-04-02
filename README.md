@@ -36,19 +36,5 @@
 - Features: Add, Update, Delete, View Students  
 - 📎 Add your repo link here
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deybikram1608&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deybikram1608&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect with Me
-- 📧 Email: deybikram1608@gmail.com  
-
----
 
 ⭐️ *Keep building and improving!*
